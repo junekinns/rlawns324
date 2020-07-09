@@ -1,16 +1,15 @@
-### Hi there 👋
+#### 🔭 I’m currently working on  
+- [SNOW Corporation](https://snowcorp.com/ko_KR/)
 
-<!--
-**rlawns324/rlawns324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 I’m currently learning  
+- how to code
 
-Here are some ideas to get you started:
+#### 💬 Ask me about  
+- nothing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/june-kim-735176153/)    
+- [Blog](http://junekkk.tistory.com/)  
+
+#### ⚡ Fun fact  
+- I will turn 30 next year  
