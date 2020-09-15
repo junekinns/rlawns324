@@ -1,5 +1,5 @@
 #### 🔭 I’m currently working on  
-- [SNOW Corporation](https://snowcorp.com/ko_KR/)
+- [SNOW Corporation](https://snowcorp.com/)
 
 #### 🌱 I’m currently learning  
 - how to code
