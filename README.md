@@ -1,12 +1,1 @@
-#### 🔭 I’m currently working on  
-- [SNOW Corporation](https://snowcorp.com/ko/)
-
-#### 🌱 I’m currently learning  
-- how to code
-
-#### 💬 Ask me about  
-- nothing  
-
-#### 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/june-kim-735176153/)    
-- [Blog](http://junekkk.tistory.com/)  
+![i16110875644](https://user-images.githubusercontent.com/28533936/127764171-305a95db-4fe8-48b3-a6a0-025b0dbb5815.jpg)
